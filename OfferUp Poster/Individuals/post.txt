@@ -1,0 +1,12 @@
+title:price:description:condition:brand:color:size:category
+Jordan 4 Lightning (GS):190:Jordan 4 Lightning (GS) |Size - 6.5Y|OG - ALL|Condition - 9/10|Buy it now - 190 obo:N:Jordan:Yellow:6.5:M:T:408452-700
+Jordan 11 Hieress:80:Jordan 11 Hieress |Size - 7.5M(9W)|OG - ALL|Condition - 7/10|Buy it now - 80 obo:N:Jordan:Black:7.5:M:T:852625-030
+Jordan 12 Gym Reds:165:Gym Red 12s|Size - 9|OG - ALL|Condition - Deadstock|Buy it now - 165 obo:U:Jordan:Red:9:M:T
+Jordan 11 Platinum Tints:180:Platinum Tint 11s|Size - 12M|OG - ALL|Condition - 9.5/10|Buy it now - 180 obo:U:Jordan:Platinum:12:M:T
+Nike Dunk Low WorldWide (GS):140:WorldWide Dunk (GS) |Size - 6.5Y|OG - ALL|Condition - Deadstock|Buy it now - 140 obo:N:Nike:Gold:6.5:M
+Nike Dunk Low Team Gold:150:Dunk Low Team Gold|Size - 10M|OG - ALL|Condition - Deadstock|Buy it now - 150 obo:N:Nike:Gold:10:M
+Jordan 6 Carmine:120:Jordan 6 Carmine (2014)|Size - 10.5M|OG - None|Condition - 6/10|Buy it now - 120 obo:U:Jordan:White:10.5:M
+Jordan 11 Cherry:180:Jordan 11 Cherry|Size - 4.5Y|OG - all|Condition - Brand New|Buy it now - 180 obo:N:Jordan:White:4.5:M
+Jordan 5 Grape:150:Jordan 5 Grape|Size - 10.5M|OG - all|Condition - 8/10 (yellow soles)|Buy it now - 150 obo:U:Jordan:White:10.5:M
+Jordan 4 Hot Punch:280:Jordan 4 Hot Punch|Size - 10W|OG - all|Condition - VNDS|Buy it now - 280 obo:U:Jordan:Black:10:W
+Dunk Low Panda:200:Dunk Low Panda|Size - 8.5M|OG - all|Condition - Brand new|Buy it now - 200 obo:N:Nike:Black:8.5:M
